@@ -1,0 +1,6 @@
+{
+  "name": "NEXTR Haven & Stone",
+  "description": "Premium luxury residential and commercial real estate website demonstration by NEXTR Digital Solutions & Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
